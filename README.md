@@ -18,4 +18,4 @@ another bug fixed
 
 [Google](https://google.com)
 
-This is a potential enhancement.
+This is very cool, and i like it a lot
