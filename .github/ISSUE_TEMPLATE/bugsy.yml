@@ -1,4 +1,4 @@
-name: Bug Report
+name: Uptown I.T. Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
@@ -7,7 +7,7 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      placeholder: email@example.com
+      placeholder: mrpoophead@poopyheads-r-us.com
 
   - type: textarea
     id: what-happened
@@ -18,11 +18,13 @@ body:
       required: true
 
   - type: dropdown
-    id: version
+    id: issue
     attributes:
-      label: Version
+      label: Issue
       options:
-        - 1.0.2
-        - 1.0.3
+        - No communications
+        - That's a questions
+        - Unclear questions
+        - Increasement
     validations:
       required: true
