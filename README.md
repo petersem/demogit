@@ -17,3 +17,5 @@ This was considered a bug
 another bug fixed
 
 [Google](https://google.com)
+
+This is a potential enhancement.
