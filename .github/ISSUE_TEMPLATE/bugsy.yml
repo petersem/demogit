@@ -1,6 +1,6 @@
-name: Bug Report
+name: Uptown I.T. Bug Report
 description: File a bug report.
-title: "[Bug]: "
+title: "[Buggy]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
